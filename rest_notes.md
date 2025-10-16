@@ -8,7 +8,7 @@
 3. [REST as Mediator Pattern](#rest-as-mediator-pattern)
 4. [Factory Pattern in REST](#factory-pattern-in-rest)
 5. [Workflow Modeling](#workflow-modeling)
-6. [SIREN Hypermedia Format](#siren-hypermedia-format)
+6. [Siren Resources](#siren-resources)
 7. [RFC Standards](#rfc-standards)
 8. [ALPS (Application-Level Profile Semantics)](#alps-application-level-profile-semantics)
 
